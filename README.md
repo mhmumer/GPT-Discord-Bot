@@ -1,1 +1,1 @@
-"# GPT-Discord-Bot" 
+# GPT-Discord-Bot
